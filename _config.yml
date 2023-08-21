@@ -1,7 +1,8 @@
 title: Saad Abdul Rauf # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data analyst with passion for using data to solve business problems. Proficient in SQL, Tableau, Excel.  <br><br>
+  Data analyst with passion for using data to solve business problems. 
+   Proficient in SQL, Tableau, Excel.  <br><br>
   <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
