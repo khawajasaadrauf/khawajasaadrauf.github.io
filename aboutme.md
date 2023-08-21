@@ -10,19 +10,33 @@ I'm Saad, a data architect with a passion for data insights and data lake creati
 **Data lake creation:** I have a proven track record of successfully implementing data lake solutions. I design and build scalable data lakes using modern technologies like Hadoop, Spark, and cloud-based platforms. I ensure data governance and security practices are in place to guarantee the integrity and privacy of sensitive information.
 **Team leadership:** I am a collaborative leader who excels at building and motivating high-performing teams. I foster a culture of innovation, continuous learning, and knowledge sharing. I mentor team members, provide technical guidance, and create opportunities for professional growth.
 Here are my skills:
+
 ◻️ **SQL**
+
 ◻️ **Excel**
+
 ◻️ **Google Sheets**
+
 ◻️ **Tableau**
+
 ◻️ **Data Visualization**
+
 ◻️ **Data architecture and design**
+
 ◻️ **Data modeling**
+
 ◻️ **Data warehousing**
+
 ◻️ **ETL/ELT development**
+
 ◻️ **Big data technologies (Hadoop, Spark, etc.)**
+
 ◻️ **Cloud computing (AWS, Azure, GCP)**
+
 ◻️ **Data governance and security**
+
 ◻️ **Team management and leadership**
+
 ◻️ **Data Coaching**
 
 
@@ -73,4 +87,4 @@ I'm always interested in exploring new opportunities, collaborating on exciting 
 
 
 
-<p align="center"><a href="https://khawajasaadrauf.github.io/"><img src="images/Home icon 1.png?raw=true"/>
+<p align="center"><a href="https://khawajasaadrauf.github.io/"><img src="images/home-butto.png?raw=true"/>
