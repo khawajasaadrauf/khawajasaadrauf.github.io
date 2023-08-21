@@ -10,7 +10,7 @@ Sales and profit analysis on store data.
 
 ---
 #### ['Social Norms' Analysis with Tableau](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SocialNorms_16920927904880/NegativeNorm)
-<img src="images/social norm.png?raw=true"/>(https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SocialNorms_16920927904880/NegativeNorm)
+[<img src="images/social norm.png?raw=true"/>](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SocialNorms_16920927904880/NegativeNorm)
 social Norm. 
 
 ---
