@@ -1,4 +1,5 @@
 # Welcome to My Portfolio
+[<img src="images/saadgithubbanner.png"/>](https://https://www.linkedin.com/in/saad-abdul-rauf-75643a75/)
 
 ---
 
