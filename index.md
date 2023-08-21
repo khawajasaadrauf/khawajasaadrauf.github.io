@@ -4,7 +4,7 @@
 
 ### Learn About Me(/aboutme.md)
 
-#### ["Sales and Profit Analysis' Performance Analysis for 2014-2017 with Tableau](https://www.linkedin.com/pulse/winning-playbook-nba-teams-performance-analysis-2021-2022-umar/)
+#### ["Sales and Profit Analysis' Performance Analysis for 2014-2017 with Tableau](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
 [<img src="images/sales and profit analysis.jpg"/>](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
 Sales and profit analysis on store data.
 
