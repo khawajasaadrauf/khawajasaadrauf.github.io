@@ -4,9 +4,9 @@
 
 ### Learn About Me(/aboutme.md)
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### ["Sales and Profit Analysis' Performance Analysis for 2021-2022 with Tableau](https://www.linkedin.com/pulse/winning-playbook-nba-teams-performance-analysis-2021-2022-umar/)
+[<img src="images/sales and profit analysis.jpg"/>](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
+Sales and profit analysis on store data.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
