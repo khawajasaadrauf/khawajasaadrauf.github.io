@@ -4,14 +4,14 @@
 
 ### Learn About Me(/aboutme.md)
 
-#### ["Sales and Profit Analysis' Performance Analysis for 2014-2017 with Tableau](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
+#### ['Sales and Profit Analysis' Performance Analysis for 2014-2017 with Tableau](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
 [<img src="images/sales and profit analysis.jpg"/>](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
 Sales and profit analysis on store data.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### ['Social Norms' Analysis with Tableau](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SocialNorms_16920927904880/NegativeNorm)
+<img src="images/social norm.png?raw=true"/>
+social Norm. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
