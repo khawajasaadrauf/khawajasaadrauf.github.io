@@ -41,6 +41,6 @@ Here are my skills:
 
 
 I'm always interested in exploring new opportunities, collaborating on exciting projects, and connecting with fellow data enthusiasts. If you're interested in discussing data architecture, data insights, or data lake creation, feel free to reach out. You can connect with me on [LinkedIn](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/) or drop me an [email at](https://khawajasaadrauf.github.io/).
-🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://khawajasaadrauf.github.io/)I look forward to connecting with you!
+🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://khawajasaadrauf.github.io/) I look forward to connecting with you!
 
 🌟 I am eager to connect with data professionals & share their valuable insights. I am highly motivated to learn from those who have pivoted to data analytics like me. If you're interested in discussing my career or simply wish to connect, please don't hesitate to reach out. I look forward to having great conversation!<br>
