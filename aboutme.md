@@ -1,35 +1,35 @@
-## About Me<br>
-👋🏻 Hi, I'm Saad! I am a Data Analyst Professional📊. I love data and I am passionate to learn and excel in Data Analytics. Connect with me and learn about my data journey.💡 
+## About Me <br>
+Hi there!
 
-✨ As a Graduate in Economics and an experienced E-commerce professional, I have a strong track record of 𝐚𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐬𝐚𝐥𝐞𝐬 𝐝𝐚𝐭𝐚, where I monitored market trends. My 𝐬𝐭𝐫𝐨𝐧𝐠 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐬𝐤𝐢𝐥𝐥𝐬 helped me to built effective supplier relationships, I identified growth opportunities, managed inventory and achieved a 𝟐𝟎% increase in sales through strategic marketing campaigns.
+I'm Saad, a data architect with a passion for data insights and data lake creation. I have a strong background in designing and implementing scalable data solutions that drive business intelligence and enable informed decision-making.
 
-I led a team of 9 employees, that tend to increase productivity by 15% and maximized accounts ROI. I managed to provide exceptional customer service to drive revenue growth. I'm experienced working with major platforms like Amazon, Walmart, Etsy, and eBay.
+**Here's what I do:**
 
- 🌟 I'm excited to utilize my experience in data analytics. I am ready for new challenges. I've always been drawn to "Why" in everything and I know that my analytical skills with critical thinking will serve me well in data world. I am highly motivated to research and taking new initiatives. 
-
-I am thrilled to make a career change and dive headfirst into the world of **Data Analytics**. 📊📚
-
-My technical skills include:
-
+**Data architecture management:** I oversee the design, development, and maintenance of robust data architectures that support data-driven initiatives. I collaborate with cross-functional teams to define data requirements, ensure data integrity, and optimize data models for performance and scalability.
+**Data insights and analytics:** I specialize in extracting meaningful insights from complex data sets. I use advanced analytics techniques, data visualization tools, and statistical methodologies to transform raw data into actionable business intelligence. I have a deep understanding of data mining, statistical analysis, and machine learning algorithms to uncover patterns, trends, and correlations that drive strategic decision-making.
+**Data lake creation:** I have a proven track record of successfully implementing data lake solutions. I design and build scalable data lakes using modern technologies like Hadoop, Spark, and cloud-based platforms. I ensure data governance and security practices are in place to guarantee the integrity and privacy of sensitive information.
+**Team leadership:** I am a collaborative leader who excels at building and motivating high-performing teams. I foster a culture of innovation, continuous learning, and knowledge sharing. I mentor team members, provide technical guidance, and create opportunities for professional growth.
+Here are my skills:
 ◻️ **SQL**
-
 ◻️ **Excel**
-
 ◻️ **Google Sheets**
-
 ◻️ **Tableau**
-
 ◻️ **Data Visualization**
+◻️ **Data architecture and design**
+◻️ **Data modeling**
+◻️ **Data warehousing**
+◻️ **ETL/ELT development**
+◻️ **Big data technologies (Hadoop, Spark, etc.)**
+◻️ **Cloud computing (AWS, Azure, GCP)**
+◻️ **Data governance and security**
+◻️ **Team management and leadership**
+◻️ **Data Coaching**
 
-🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://khawajasaadrauf.github.io/)
 
-It includes projects using different skills like 𝐄𝐱𝐜𝐞𝐥, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 and 𝐒𝐐𝐋. New projects are continuously adding to the Portfolio. These projects are enhancing my 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐝𝐚𝐭𝐚 𝐯𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧, and 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 skills.
+I'm always interested in exploring new opportunities, collaborating on exciting projects, and connecting with fellow data enthusiasts. If you're interested in discussing data architecture, data insights, or data lake creation, feel free to reach out. You can connect with me on [LinkedIn](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/) or drop me an [email at](https://khawajasaadrauf.github.io/).
+🌐 Visit my [𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](https://khawajasaadrauf.github.io/)I look forward to connecting with you!
 
-💡To prepare for my transition, I've been studying Data Analytics Accelerator Bootcamp and excelling these skills. I've been blown away by what I've learned so far. I can't wait to start applying my new skills to real-world problems and helping businesses to make 𝐝𝐚𝐭𝐚 𝐝𝐫𝐢𝐯𝐞𝐧 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧𝐬.
-
-🌠 When I'm not thinking about data analytics, you can find me cooking delicious meals, baking and spending time with family. I'm a huge fan of nature, and I love spending time doing walks, exploring trails & camping. It always fascinates me. 🌝
-
-🌟 I am eager to connect with data professionals & share their valuable insights. I am highly motivated to learn from those who have pivoted to data analytics like me. If you're interested in discussing my career change or simply wish to connect, please don't hesitate to reach out. I look forward to having great conversation!<br>
+🌟 I am eager to connect with data professionals & share their valuable insights. I am highly motivated to learn from those who have pivoted to data analytics like me. If you're interested in discussing my career or simply wish to connect, please don't hesitate to reach out. I look forward to having great conversation!<br>
 
 
 
