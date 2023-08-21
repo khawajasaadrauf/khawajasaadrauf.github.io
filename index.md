@@ -1,11 +1,11 @@
-# My Portfolio
+<img width="960" alt="image" src="https://github.com/khawajasaadrauf/khawajasaadrauf.github.io/assets/45660662/0a7a6d85-863f-408c-9472-a2311bfbe574"># My Portfolio
 
 ---
 
 ### [Learn About Me](/aboutme.md)
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.png?raw=true"/>
+<img src="images/images/sales and profit analysis.jpg?raw=true"/>
 Tolulope is the best
 
 ---
