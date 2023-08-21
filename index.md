@@ -5,7 +5,7 @@
 ### [Learn About Me](/aboutme.md)
 
 #### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.png?raw=true"/>
 Tolulope is the best
 
 ---
