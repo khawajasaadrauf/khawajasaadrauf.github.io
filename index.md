@@ -2,7 +2,7 @@
 
 ---
 
-### Learn About My Projects
+### [Learn About Me](/aboutme.md)
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
