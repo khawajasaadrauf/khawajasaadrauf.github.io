@@ -39,3 +39,26 @@ What are the top math schools in the state?
 - [Project 5 Title](http://example.com/)
 
 ---
+### [<img src="images/doc_icon.png?raw=true"/>]([https://www.linkedin.com/in/madeehaumar/](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/))[Resume coming soon](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/) 
+
+
+### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/saad.abdul.rauf)   [Tableau](https://public.tableau.com/app/profile/saad.abdul.rauf)
+
+
+
+
+
+### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/)                                     [LinkedIn](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/)
+
+
+
+
+
+
+
+
+
+
+
+
+### [<img src="images/GitHub_icon40.png?raw=true"/>](https://github.com/madeehaumar)             [GitHub](https://github.com/madeehaumar)
