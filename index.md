@@ -15,10 +15,9 @@ Sales and profit analysis on store data.
 social Norm. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+#### [DoorDash Sales Summary](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/DoorDashSalesSummary/DoorDashSalesOverview)
+[<img src="images/DoorDash Sales Overview.png?raw=true"/>](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/DoorDashSalesSummary/DoorDashSalesOverview)
+This dashboard showcases delivery times by Market Id & Store Category, as well as sales by Market Id & Order Protocol. For more info please click on the Image.
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
