@@ -20,22 +20,15 @@ social Norm.
 This dashboard showcases delivery times by Market Id & Store Category, as well as sales by Market Id & Order Protocol. For more info please click on the Image.
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Market Returns](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SuperMarketSalesReturn/ReturnsDashboard)
+[<img src="images/Market Return.png"/>](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SuperMarketSalesReturn/ReturnsDashboard)
+This dashboard showcases Super Market Sales Return.
 
 ---
 
-### Category Name 2
+### Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- ['Sales and Profit Analysis' Performance Analysis (https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
 
 ---
 ### [<img src="images/doc_icon.png?raw=true"/>]([https://www.linkedin.com/in/madeehaumar/](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/))[Resume coming soon](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/) 
