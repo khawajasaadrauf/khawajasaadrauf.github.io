@@ -29,7 +29,7 @@ This dashboard showcases Super Market Sales Return.
 ### Projects
 
 - ['Sales and Profit Analysis' Performance Analysis ](https://public.tableau.com/app/profile/saad.abdul.rauf/viz/SalesProfitAnalysis_16920910081060/Dashboard1)
-- ['Customer Churn Prediction'Churn Prediction] (https://github.com/khawajasaadrauf/Customer-Churn-Prediction)
+- ['Customer Churn Prediction'Churn Prediction ] (https://github.com/khawajasaadrauf/Customer-Churn-Prediction)
 ---
 ### [<img src="images/doc_icon.png?raw=true"/>](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/)[Resume coming soon](https://www.linkedin.com/in/saad-abdul-rauf-75643a75/) 
 
